@@ -1,0 +1,69 @@
+Prof. Octavio Gutiérrez
+
+HERRAMIENTAS DE MINERIA DE DATOS PARA ANALITICA EMPRESARIAL, ITAM.
+
++++++++++++++++ Introducción al Procesamiento y Análisis de Texto	
+	- Stemmer
+	- Lemmatizer
+	- Sintaxis
+	- Parts of speech
+	- Semántica
+	- Corpus
+	- Tokenización
+	- Distribución de Frecuencias
+	- Wordnet
+
+https://colab.research.google.com/drive/18EjxXGZwXmP37APtvYGPHKE5OL6b08nS?usp=sharing
+
+
+
++++++++++++++++ Expresiones regulares
+
+https://colab.research.google.com/drive/1coO_k8ptEem4UgzQPeJJemt1lvH0Vicb?usp=sharing
+
+
+
++++++++++++++++ Ejercicio resulto de expresiones regulares
+
+https://colab.research.google.com/drive/1oEb1QxJbvs9kXvELf6-qUZKsVSNPaYRA?usp=sharing
+
+
+
++++++++++++++++ Extracción de características 
+	- Modelo de Bolsa de Palabras
+	- N-gramas
+	- Modelo TF-IDF
+	- Similitud coseno
+	
+https://colab.research.google.com/drive/1kw9DWb_7I3qe9sC2V-NbjbVgzLjUixtK?usp=sharing
+
+
+
++++++++++++++++ Ejercicio de extracción de características en Español
+
+https://colab.research.google.com/drive/17-oku0Kgx9TulBCGSlm7Wz2LCGxmjd25?usp=sharing
+
+
+
++++++++++++++++ Tutorial de Web Scrapping
+
+https://colab.research.google.com/drive/147zkl0GNfJxaWOXOrF_kMdXgn6X49LQ2?usp=sharing
+
+
+
++++++++++++++++ Ejercicio de Web Scrapping con un Libro del Proyecto www.gutenberg.org
+
+https://colab.research.google.com/drive/16rNY76Q0DQjXf5DNpcWTugb7sjrKFG9c?usp=sharing
+
+
+
++++++++++++++++ Archivo base para la realización del Ejercicio de Comparación de 6 libros
+
+https://colab.research.google.com/drive/11rCs4jG4yMpbPCL0ywCcUUoqpaDSNSvn?usp=sharing
+
+
++++++++++++++++ Clusterizando documentos
+	Linkage
+	Dendograma
+
+https://colab.research.google.com/drive/1RkLfNO1aqliuYIGIud4Gud2a7aCOYt80?usp=sharing
